@@ -13,7 +13,7 @@
  
 ![image](https://user-images.githubusercontent.com/75343007/158704464-a69c5c9b-0b7c-4170-a69d-0488969375f2.png)
 
-This is a basic file sortering program made with java GUI. 
+This is a basic file sorting program made with java GUI. 
 
 This uses both Quick sort and Merge sort to sort an unordered txt file with a list of texts.
 
